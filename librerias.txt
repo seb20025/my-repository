@@ -1,0 +1,20 @@
+# Bibliotecas principales
+shap
+PyYAML
+pandas
+numpy
+matplotlib
+seaborn
+geopy
+shapely
+requests
+pyspark
+xgboost
+statsmodels
+scikit-learn
+imblearn
+scipy
+mlflow
+geopandas
+missingno
+featuretools

@@ -1,0 +1,29 @@
+shap
+
+# Manejo de datos
+pandas
+numpy
+geopandas
+missingno
+
+# Visualización
+matplotlib
+seaborn
+
+# Geolocalización
+geopy
+shapely
+requests
+
+# Spark y ML
+pyspark
+xgboost
+synapseml
+hyperopt
+imblearn
+scipy
+statsmodels
+scikit-learn
+
+# MLflow
+mlflow
